@@ -25,7 +25,7 @@ Research
 
 I study the connection between galaxies and diffuse gas in the universe through cosmological simulations and observational data analysis. In particular, I am interested in how galaxy formation feedback affects neutral hydrogen absorption lines and the large-scale distribution of baryons.
 
-I also work on constructing and analyzing light-cone datasets from large cosmological simulations.
+I also work on reconstruction technique for the cosmic density field with machine learning technique (e.g. CNN).
 
 Publications
 ======

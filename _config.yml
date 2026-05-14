@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Koichiro Nakashiima / Home"
 title_separator          : "-"
 name                     : &name "Koichiro Nakashima"
@@ -24,13 +24,13 @@ repository               : "nakashima-K873/nakashima-K873.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Koichiro Nakashiima"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Tsukuba University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nakashima.koichir.ka@u.tsukuba.ac.jp" 
 
   # Academic websites
   academia         : # URL

@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-05-15-ml_density_rec
 excerpt: ''
 date: 2025-05-15
-venue: ''
+venue: 'MNRAS'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''

@@ -16,16 +16,15 @@ My interests include:
 - Cosmological hydrodynamical simulations
 - Galaxy formation and feedback processes
 - Neutral hydrogen absorption systems
-- Intergalactic and circumgalactic media
-- Large spectroscopic surveys
-- Computational astrophysics
+- AI for cosmological analysis
+- Algebra and category
+- Philosophy of Science
 
 Research
 ======
 
-I study the connection between galaxies and diffuse gas in the universe through cosmological simulations and observational data analysis. In particular, I am interested in how galaxy formation feedback affects neutral hydrogen absorption lines and the large-scale distribution of baryons.
-
-I also work on reconstruction technique for the cosmic density field with machine learning technique (e.g. CNN).
+I study the connection between galaxies and diffuse gas in the universe through cosmological simulations and observational data analysis. 
+I'm working on reconstruction techniques for the cosmic density field with the machine learning techniques (e.g. CNN).
 
 Publications
 ======
@@ -36,4 +35,3 @@ Contact
 ======
 
 - Email: nakashima.koichir.ka@u.tsukuba.ac.jp
-- GitHub: https://github.com/nakashima-k873
